@@ -1,3 +1,5 @@
+(Updated for 2nd course attempt)
+
 Sebastian Yael Curiel Franco  
 Software Development 1  
 CEN 3024C - 31032  
